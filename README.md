@@ -9,16 +9,16 @@ Feel free to contact me through:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 September 2022 - To: 26 October 2022
+From: 19 September 2022 - To: 27 October 2022
 
-Total Time: 67 hrs 48 mins
+Total Time: 73 hrs 5 mins
 
-C++           62 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.20 %
-Text          2 hrs 11 mins   >------------------------   03.23 %
-Python        1 hr 59 mins    >------------------------   02.93 %
-Markdown      32 mins         -------------------------   00.80 %
-JSON          25 mins         -------------------------   00.64 %
-HTML          5 mins          -------------------------   00.15 %
+C++           67 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.72 %
+Text          2 hrs 13 mins   >------------------------   03.04 %
+Python        1 hr 59 mins    >------------------------   02.72 %
+Markdown      32 mins         -------------------------   00.74 %
+JSON          25 mins         -------------------------   00.59 %
+HTML          5 mins          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->

@@ -8,8 +8,8 @@ Feel free to contact me through:
 2.Gmail:Lucien2714@gmail.com
 <!--START_SECTION:waka-->
 
-```text
-From: 19 September 2022 - To: 31 May 2023
+```txt
+From: 19 September 2022 - To: 01 June 2023
 
 Total Time: 91 hrs 16 mins
 

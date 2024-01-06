@@ -9,7 +9,7 @@ Feel free to contact me through:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2022 - To: 04 January 2024
+From: 19 September 2022 - To: 05 January 2024
 
 Total Time: 91 hrs 16 mins
 

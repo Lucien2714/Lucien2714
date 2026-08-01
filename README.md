@@ -9,15 +9,15 @@ Feel free to contact me through:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2022 - To: 30 July 2026
+From: 20 September 2022 - To: 31 July 2026
 
-Total Time: 231 hrs 42 mins
+Total Time: 239 hrs 53 mins
 
-Python            88 hrs 51 mins        >>>>>>>>>>---------------   38.35 %
-C++               78 hrs 45 mins        >>>>>>>>-----------------   33.99 %
-Markdown          17 hrs 21 mins        >>-----------------------   07.49 %
-JavaScript        10 hrs 13 mins        >------------------------   04.42 %
-Squirrel          7 hrs 12 mins         >------------------------   03.11 %
+Python            95 hrs 40 mins        >>>>>>>>>>---------------   39.88 %
+C++               78 hrs 45 mins        >>>>>>>>-----------------   32.83 %
+Markdown          18 hrs 17 mins        >>-----------------------   07.63 %
+JavaScript        10 hrs 13 mins        >------------------------   04.26 %
+Squirrel          7 hrs 12 mins         >------------------------   03.00 %
 ```
 
 <!--END_SECTION:waka-->

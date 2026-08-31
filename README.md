@@ -9,7 +9,7 @@ Feel free to contact me through:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2022 - To: 29 August 2026
+From: 20 September 2022 - To: 30 August 2026
 
 Total Time: 261 hrs 20 mins
 

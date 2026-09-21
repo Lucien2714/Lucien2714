@@ -9,9 +9,9 @@ Feel free to contact me through:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2022 - To: 19 September 2026
+From: 20 September 2022 - To: 20 September 2026
 
-Total Time: 303 hrs 12 mins
+Total Time: 303 hrs 13 mins
 
 Python            119 hrs 4 mins        >>>>>>>>>>---------------   39.27 %
 C++               78 hrs 45 mins        >>>>>>-------------------   25.97 %
